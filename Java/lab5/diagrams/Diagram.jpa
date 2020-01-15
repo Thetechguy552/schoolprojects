@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jpa:entity-mappings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://jcp.org/en/jsr/detail?id=270" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:jpa="http://java.sun.com/xml/ns/persistence/orm" pkg="lab5.entities" v="1.5.4" rws="_155550988895514" Pws="_155550988895514" cws="_155550988895514" persistenceUnitName="Jonathan_kelly_Lab5_PU" sm="false" xs="false" id="_14908026016891" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence/orm orm_2_1.xsd">
+    <jpa:entity xre="false" compositePrimaryKeyClass="PublicationPK" abs="false" class="Publication" v="true" m="false" rootElement="_14908026016891" id="_1490802606878">
+        <jpa:attributes>
+            <jpa:basic attribute-type="String" v="true" name="title" id="_14908026196184">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+            <jpa:id attribute-type="Long" v="true" name="id" id="_14908026069062">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+                <jpa:generated-value strategy="IDENTITY"/>
+            </jpa:id>
+        </jpa:attributes>
+    </jpa:entity>
+    <jpa:entity xre="false" compositePrimaryKeyClass="BookPK" abs="false" class="Book" superclassId="_1490802606878" v="true" m="false" rootElement="_14908026016891" id="_1490802631134">
+        <jpa:ts e="true"/>
+        <jpa:hc e="true"/>
+        <jpa:eq e="true"/>
+        <jpa:attributes>
+            <jpa:basic attribute-type="String" v="true" name="author" id="_14908026502529">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+        </jpa:attributes>
+        <jpa:el/>
+    </jpa:entity>
+    <jpa:entity xre="false" compositePrimaryKeyClass="MagazinePK" abs="false" class="Magazine" superclassId="_1490802606878" v="true" m="false" rootElement="_14908026016891" id="_1490802637834">
+        <jpa:ts e="true"/>
+        <jpa:hc e="true"/>
+        <jpa:eq e="true"/>
+        <jpa:attributes>
+            <jpa:basic attribute-type="int" v="true" name="orderQty" id="_149080266315710">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+        </jpa:attributes>
+        <jpa:el/>
+    </jpa:entity>
+    <jpa:wsl>
+        <jpa:ws n="Main" id="_155550988895514">
+            <i ref="_1490802606878" x="192" y="111">
+                <el/>
+            </i>
+            <i ref="_1490802637834" x="351" y="304">
+                <el/>
+            </i>
+            <i ref="_1490802631134" x="64" y="304">
+                <el/>
+            </i>
+        </jpa:ws>
+    </jpa:wsl>
+</jpa:entity-mappings>

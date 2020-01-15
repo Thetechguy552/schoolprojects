@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jpa:entity-mappings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://jcp.org/en/jsr/detail?id=270" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:jpa="http://java.sun.com/xml/ns/persistence/orm" pkg="diagrams" v="1.5.4" rws="_154750631152583" Pws="_154750631152583" cws="_154750631152583" persistenceUnitName="JPATester_mvn_PU" sm="false" xs="false" id="_14845797840591" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence/orm orm_2_1.xsd">
+    <jpa:mapped-superclass xre="false" compositePrimaryKeyClass="PersonPK" abs="true" class="Person" v="true" m="false" rootElement="_14845797840591" id="_148457978415514">
+        <jpa:attributes>
+            <jpa:basic attribute-type="String" v="true" name="name" id="_148457978416020">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+            <jpa:basic attribute-type="int" v="true" name="age" id="_148457978416022">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+            <jpa:embedded connected-class-id="_148457978415916" v="true" name="address" id="_148457978415515">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:embedded>
+            <jpa:id attribute-type="Long" v="true" name="id" id="_148457978416021">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+                <jpa:generated-value strategy="IDENTITY"/>
+            </jpa:id>
+        </jpa:attributes>
+    </jpa:mapped-superclass>
+    <jpa:entity xre="false" compositePrimaryKeyClass="DepartmentPK" abs="false" class="Department" v="true" m="false" rootElement="_14845797840591" id="_14845797841022">
+        <jpa:attributes>
+            <jpa:basic attribute-type="String" v="true" name="name" id="_14845797841114">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+            <jpa:one-to-many orp="false" own="false" collection-type="java.util.Collection" connected-entity-id="_148457978799623" connected-attribute-id="_148457978799625" v="true" name="employeeList" id="_14845797841083">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:one-to-many>
+            <jpa:id attribute-type="Long" v="true" name="id" id="_14845797841115">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+                <jpa:generated-value strategy="IDENTITY"/>
+            </jpa:id>
+        </jpa:attributes>
+    </jpa:entity>
+    <jpa:entity xre="false" compositePrimaryKeyClass="ProductOrderPK" abs="false" class="ProductOrder" v="true" m="false" rootElement="_14845797840591" id="_14845797841316">
+        <jpa:attributes>
+            <jpa:basic attribute-type="String" v="true" name="name" id="_14845797841317">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+            <jpa:basic attribute-type="String" v="true" name="type" id="_14845797841319">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+            <jpa:id attribute-type="Long" v="true" name="id" id="_14845797841318">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+                <jpa:generated-value strategy="IDENTITY"/>
+            </jpa:id>
+        </jpa:attributes>
+    </jpa:entity>
+    <jpa:entity xre="false" compositePrimaryKeyClass="CustomerPK" abs="false" class="Customer" superclassId="_148457978415514" v="true" m="false" rootElement="_14845797840591" id="_148457978415410">
+        <jpa:attributes>
+            <jpa:many-to-one optional="true" primaryKey="false" connected-entity-id="_148457978799623" v="true" name="primaryContact" id="_148457978415411">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:many-to-one>
+            <jpa:one-to-many orp="false" own="true" collection-type="java.util.Collection" connected-entity-id="_14845797841316" v="true" name="productOrders" id="_148457978415413">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:one-to-many>
+        </jpa:attributes>
+    </jpa:entity>
+    <jpa:entity xre="false" compositePrimaryKeyClass="EmployeePK" abs="false" class="Employee" superclassId="_148457978415514" v="true" m="false" rootElement="_14845797840591" id="_148457978799623">
+        <jpa:attributes>
+            <jpa:many-to-one optional="true" primaryKey="false" connected-entity-id="_14845797841022" connected-attribute-id="_14845797841083" v="true" name="department" id="_148457978799625">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:many-to-one>
+        </jpa:attributes>
+    </jpa:entity>
+    <jpa:embeddable abs="false" class="Address" v="true" m="false" rootElement="_14845797840591" id="_148457978415916">
+        <jpa:attributes>
+            <jpa:basic attribute-type="String" v="true" name="city" id="_148457978415917">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+            <jpa:basic attribute-type="String" v="true" name="street" id="_148457978415918">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+            <jpa:basic attribute-type="String" v="true" name="state" id="_148457978415919">
+                <jpa:bv/>
+                <jpa:kbv/>
+                <jpa:vbv/>
+            </jpa:basic>
+        </jpa:attributes>
+    </jpa:embeddable>
+    <jpa:c/>
+    <jpa:wsl>
+        <jpa:ws n="Main" id="_154750631152583">
+            <i ref="_148457978799623" x="221" y="205">
+                <el/>
+            </i>
+            <i ref="_148457978415514" x="295" y="21">
+                <el/>
+            </i>
+            <i ref="_148457978415410" x="398" y="325">
+                <el/>
+            </i>
+            <i ref="_14845797841316" x="614" y="408">
+                <el/>
+            </i>
+            <i ref="_148457978415916" x="627" y="127">
+                <el/>
+            </i>
+            <i ref="_14845797841022" x="26" y="401">
+                <el/>
+            </i>
+        </jpa:ws>
+    </jpa:wsl>
+</jpa:entity-mappings>

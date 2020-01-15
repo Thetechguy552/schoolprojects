@@ -1,0 +1,20 @@
+﻿<Window x:Class="Lab6b_1.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300">
+    <Grid Height="54" Width="165">
+        <!-- Mode=twoway enables twoway -->
+        <TextBox  Name="textBox" Margin="0,-77,0,0" Height="23" VerticalAlignment="Top"
+                Text ="{Binding ElementName=listBox,
+                        Path=SelectedItem.Content,
+                        Mode=TwoWay, 
+                        UpdateSourceTrigger=PropertyChanged}"
+                Background="{Binding ElementName=listBox, Path=SelectedItem.Content, Mode=OneWay}">
+        </TextBox>
+        <ListBox Name="listBox" >
+            <ListBoxItem Content="Green"/>
+            <ListBoxItem  Content="Yellow" IsSelected="True"/>
+            <ListBoxItem Content="Orange" />
+        </ListBox>
+    </Grid>
+</Window>

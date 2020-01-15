@@ -1,0 +1,7 @@
+D:\School Work\Year 2\CSD331-C#\devops\Lab3b\Lab3b1-4\bin\Debug\Lab3b1-4.exe.config
+D:\School Work\Year 2\CSD331-C#\devops\Lab3b\Lab3b1-4\bin\Debug\Lab3b1-4.exe
+D:\School Work\Year 2\CSD331-C#\devops\Lab3b\Lab3b1-4\bin\Debug\Lab3b1-4.pdb
+D:\School Work\Year 2\CSD331-C#\devops\Lab3b\Lab3b1-4\obj\Debug\Lab3b1-4.csprojAssemblyReference.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab3b\Lab3b1-4\obj\Debug\Lab3b1-4.csproj.CoreCompileInputs.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab3b\Lab3b1-4\obj\Debug\Lab3b1-4.exe
+D:\School Work\Year 2\CSD331-C#\devops\Lab3b\Lab3b1-4\obj\Debug\Lab3b1-4.pdb

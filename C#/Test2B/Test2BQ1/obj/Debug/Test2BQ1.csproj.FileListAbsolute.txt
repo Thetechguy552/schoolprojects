@@ -1,0 +1,14 @@
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\bin\Debug\Test2BQ1.exe.config
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\bin\Debug\Test2BQ1.exe
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\bin\Debug\Test2BQ1.pdb
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\Test2BQ1.csprojAssemblyReference.cache
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\MainWindow.baml
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\MainWindow.g.cs
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\App.g.cs
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\Test2BQ1_MarkupCompile.cache
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\Test2BQ1.g.resources
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\Test2BQ1.Properties.Resources.resources
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\Test2BQ1.csproj.GenerateResource.cache
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\Test2BQ1.csproj.CoreCompileInputs.cache
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\Test2BQ1.exe
+D:\School Work\Year 2\CSD331-C#\devops\Test2B\Test2BQ1\obj\Debug\Test2BQ1.pdb

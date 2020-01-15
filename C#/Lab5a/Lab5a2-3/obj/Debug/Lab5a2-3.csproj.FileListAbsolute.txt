@@ -1,0 +1,9 @@
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\bin\Debug\Lab5a2-3.exe.config
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\bin\Debug\Lab5a2-3.exe
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\bin\Debug\Lab5a2-3.pdb
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\obj\Debug\Lab5a2_3.Form1.resources
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\obj\Debug\Lab5a2_3.Properties.Resources.resources
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\obj\Debug\Lab5a2-3.csproj.GenerateResource.Cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\obj\Debug\Lab5a2-3.csproj.CoreCompileInputs.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\obj\Debug\Lab5a2-3.exe
+D:\School Work\Year 2\CSD331-C#\devops\Lab5a\Lab5a2-3\obj\Debug\Lab5a2-3.pdb

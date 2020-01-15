@@ -1,0 +1,7 @@
+D:\School Work\Year 2\CSD331-C#\Labs\lab1a\lab1a\bin\Debug\lab1a.exe.config
+D:\School Work\Year 2\CSD331-C#\Labs\lab1a\lab1a\bin\Debug\lab1a.exe
+D:\School Work\Year 2\CSD331-C#\Labs\lab1a\lab1a\bin\Debug\lab1a.pdb
+D:\School Work\Year 2\CSD331-C#\Labs\lab1a\lab1a\obj\Debug\lab1a.csprojAssemblyReference.cache
+D:\School Work\Year 2\CSD331-C#\Labs\lab1a\lab1a\obj\Debug\lab1a.csproj.CoreCompileInputs.cache
+D:\School Work\Year 2\CSD331-C#\Labs\lab1a\lab1a\obj\Debug\lab1a.exe
+D:\School Work\Year 2\CSD331-C#\Labs\lab1a\lab1a\obj\Debug\lab1a.pdb

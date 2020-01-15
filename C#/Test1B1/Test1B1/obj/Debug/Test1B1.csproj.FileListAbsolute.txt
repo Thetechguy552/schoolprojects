@@ -1,0 +1,7 @@
+D:\School Work\Year 2\CSD331-C#\devops\Test1B1\Test1B1\obj\Debug\Test1B1.csprojAssemblyReference.cache
+D:\School Work\Year 2\CSD331-C#\devops\Test1B1\Test1B1\obj\Debug\Test1B1.csproj.CoreCompileInputs.cache
+D:\School Work\Year 2\CSD331-C#\devops\Test1B1\Test1B1\bin\Debug\Test1B1.exe.config
+D:\School Work\Year 2\CSD331-C#\devops\Test1B1\Test1B1\bin\Debug\Test1B1.exe
+D:\School Work\Year 2\CSD331-C#\devops\Test1B1\Test1B1\bin\Debug\Test1B1.pdb
+D:\School Work\Year 2\CSD331-C#\devops\Test1B1\Test1B1\obj\Debug\Test1B1.exe
+D:\School Work\Year 2\CSD331-C#\devops\Test1B1\Test1B1\obj\Debug\Test1B1.pdb

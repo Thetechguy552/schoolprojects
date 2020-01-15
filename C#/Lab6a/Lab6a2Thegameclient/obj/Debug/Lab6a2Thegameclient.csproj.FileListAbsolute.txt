@@ -1,0 +1,17 @@
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\bin\Debug\Lab6a2Thegameclient.exe.config
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\bin\Debug\Lab6a2Thegameclient.exe
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\bin\Debug\Lab6a2Thegameclient.pdb
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient.csprojAssemblyReference.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\MainWindow.g.cs
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\App.g.cs
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient_MarkupCompile.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient_MarkupCompile.lref
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\MainWindow.baml
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient.g.resources
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient.Properties.Resources.resources
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient.csproj.GenerateResource.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient.csproj.CoreCompileInputs.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient.exe
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Lab6a2Thegameclient.pdb
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Options.g.cs
+D:\School Work\Year 2\CSD331-C#\devops\Lab6a\Lab6a2Thegameclient\obj\Debug\Options.baml

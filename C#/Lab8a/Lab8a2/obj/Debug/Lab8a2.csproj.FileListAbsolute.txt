@@ -1,0 +1,12 @@
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\bin\Debug\Lab8a2.exe.config
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\bin\Debug\Lab8a2.exe
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\bin\Debug\Lab8a2.pdb
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.Fillorcancel.resources
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.NewCustomer.resources
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.Properties.Resources.resources
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.csproj.GenerateResource.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.csproj.CoreCompileInputs.cache
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.exe
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.pdb
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.Welcome.resources
+D:\School Work\Year 2\CSD331-C#\devops\Lab8a\Lab8a2\obj\Debug\Lab8a2.csprojResolveAssemblyReference.cache

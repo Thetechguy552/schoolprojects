@@ -1,0 +1,222 @@
+﻿Task 1
+
+|Name                                         |Amount Pledged|Tax Information                                                                                     |
+|---------------------------------------------|--------------|----------------------------------------------------------------------------------------------------|
+|Westley Welch                                |6500          |100 St. Patrick St., Stratford, ON, N5A 7W1                                                         |
+|Virgee Hawking                               |580           |469 Montreal St., Kingston, ON, K7K 3H9                                                             |
+|Lauraine Delgado                             |420           |200 Jarvis St., Fort Erie, ON, L2A 2S7                                                              |
+|Deidra Shakespeare                           |415           |311 Jarvis St., Toronto, ON, M5B 2C4                                                                |
+|Frieda Wallace                               |400           |1107 Garrett St. OSO Township Hall, Sharbot Lake, ON, K0H 2P0                                       |
+|Lark Statham                                 |360           |55 Munsee St. N., Cayuga, ON, N0A 1E0                                                               |
+|Adair Seymour                                |320           |38 Revillion Rd. North, Moosonee, ON, P0L 1Y0                                                       |
+|Becka Stevens                                |315           |47 Sheppard Ave. East, Toronto, ON, M2N 5N1                                                         |
+|Tasha Traves                                 |260           |140 Government Rd, E. PO Box 730, Kirkland Lake, ON, P2N 3K1                                        |
+|Floella Nelson                               |235           |15 Bridge Street West, Belleville, ON, K8P 0C7                                                      |
+|Vinal Layton                                 |215           |155 Elm St, Sudbury, ON, P3C 1T9                                                                    |
+|Allyson Deadman                              |210           |David Meekis Memorial School, Deer Lake, ON, P0V 1N0                                                |
+|Mandi West                                   |200           |18-4th Avenue South, Sioux Lookout, ON, P8T 1C5                                                     |
+|Dean Simpkin                                 |195           |138 Wadsworth St. Recreation Centre, Nipigon, ON, P0T 2J0                                           |
+|Benedita Ellsworth                           |175           |216 Water Street, Kenora, ON, P9N 1S4                                                               |
+|Teodoro Linton                               |175           |299 East Street Cultural Centre, Geraldton, ON, P0T 1M0                                             |
+|Freda Wayne                                  |140           |110 Main St. North, PO Box 699, Alexandria, ON, K0C 1A0                                             |
+|Elicia Waldroup                              |135           |44 Union St. PO Box 680, Picton, ON, K0K 2T0                                                        |
+|Jayceon York                                 |135           |860 William St., Cobourg, ON, K9A 3A9                                                               |
+|Rheanna Cabral                               |130           |207 Cayley St. PO Box 39, Walkerton, ON, N0G 2VO                                                    |
+|Rheanna Watson                               |125           |Community Centre  Hwy 661, Gogama, ON, P0M 1W0                                                      |
+|Sheree Skeates                               |125           |59 Church Street, St. Catharines, ON, L2R 7N8                                                       |
+|Algar Leach                                  |120           |School Gym, Cat Lake, ON, P0V 1J0                                                                   |
+|Fathi Ajam                                   |120           |122 Government Road West, Ontario Government Building, Kapuskasing, ON, P5N 2X8                     |
+|Mohammad Keys                                |115           |59 Court St., 2nd Fl., L Orignal, ON, K0B 1K0                                                       |
+|Twyla Elliot                                 |115           |School, Wapekeka, ON, Criminal Youth - Ontario Court of Justice:                                    |
+|Nathália Ross                                |110           |70 Wellington St., Brantford, ON, N3T 2L9                                                           |
+|Mansur Wilcox                                |100           |36 Chaffey St., Huntsville, ON, P1H 1J4                                                             |
+|Anabella Bradley                             |95            |74 Woolwich St., Guelph, ON, N1H 3T9                                                                |
+|Rickey Terrell                               |95            |5 Court Street, Kingston, ON, K7L 2N4                                                               |
+|Addison Gully                                |90            |330 University Ave., Toronto, ON, M5G 1R7                                                           |
+|Doroteia Edgar                               |90            |43 Drummond St E, Perth, ON, K7H 1G1                                                                |
+|Haidar Tobias                                |90            |40 Broadway Ave., Wawa, ON, P0S 1C2                                                                 |
+|Jathibiyya Wilcox                            |90            |1000 Finch Ave. West, Toronto, ON, M3J 2V5                                                          |
+|Nazariy Moon                                 |90            |7 Clark St. West, Leamington, ON, N8H 1E5                                                           |
+|Hilary Kipling                               |80            |48 Spruce St. N., Timmins, ON, P4N 6M7                                                              |
+|Cristiana Randal                             |75            |70 Simcoe St., Peterborough, ON, K9H 7G9                                                            |
+|Luanna Merritt                               |75            |38 Pine Street N., Timmins, ON, P4N 6K6                                                             |
+|Dawn Silva                                   |70            |49 Huron St., Collingwood, ON, L9Y 1C5                                                              |
+|Matias Wallace                               |70            |Gym, Wunnumin Lake, ON, Criminal Youth - Ontario Court of Justice:                                  |
+|Sierra Hunt                                  |70            |75 Mulcaster Street, Barrie, ON, L4M 3P2                                                            |
+|Alene Richardson                             |65            |330 Wallace Ave., Listowel, ON, N4W 1L2                                                             |
+|Denzil Brasher                               |65            |316 William St., Exeter, ON, N0M 1S0                                                                |
+|Kayden Elder                                 |65            |Suite 301 - 50 Frederick Hobson VC Drive, Simcoe, ON, N3Y 0E4                                       |
+|Cordelia Normanson                           |60            |425 Grand Ave W (Entire Bldg), Chatham, ON, N7M 6M8                                                 |
+|Shauna Hamilton                              |60            |Royal Canadian Legion, 130 Atwood Ave., Rainy River, ON, P0W 1L0                                    |
+|Cary Radcliff                                |55            |50 Eagle St. W., Newmarket, ON, L3Y 6B1                                                             |
+|Keanna Bloxham                               |55            |245 Windsor Ave., Windsor, ON, N9A 1J2                                                              |
+|Nikkole Rowe                                 |55            |200 Ontario Ave, Elliot Lake, ON, P5A 1Y5                                                           |
+|Darby Boothman                               |50            |700 Memorial Ave. Cottage C, Orillia, ON, L3V 6J3                                                   |
+|Idris Suggitt                                |50            |7755 Hurontario Street, Brampton, ON, L6W 4T1                                                       |
+|Kelleigh Peterson                            |50            |35 Alice St., Brighton, ON, K0K 1H0                                                                 |
+|Nicodemo Reeves                              |50            |Civic Centre- 20 Pine St. W, Chapleau, ON, P0M 1K0                                                  |
+|Posie Spurling                               |50            |ARDC Building  111 Queen St, PO Box 2000, Armstrong, ON, P0T 1A0                                    |
+|Silvia Isaacson                              |50            |Community Centre, Keewaywin, ON, Criminal Youth - Ontario Court of Justice:                         |
+|Vlasi Strudwick                              |50            |41 Dundas St. W., Napanee, ON, K7R 1Z5                                                              |
+|Agrafena Royce                               |45            |Neskantage Community Centre, Lansdowne House, ON, Criminal Youth - Ontario Court of Justice:        |
+|Dorofei Cobb                                 |45            |Governance Building, 117 Tahgahoning Road, Walpole Island, ON, N8A 4K9                              |
+|Ethel Jarvis                                 |45            |100 Langworthy Street Recreation Centre, Schreiber, ON, P0T 2S5                                     |
+|Kat Courtney                                 |45            |415 Hunter St., Woodstock, ON, N4S 4G6                                                              |
+|Lesleigh Skeates                             |45            |41 Court House Square, Brockville, ON, K6V 7N3                                                      |
+|Sydne Courtenay                              |45            |108-124 Mark Street, Atikokan, ON, P0T 1C0                                                          |
+|Arthur Hooker                                |40            |Hotel, Pikangikum, ON, P0V 2L0                                                                      |
+|Dominika Penny                               |40            |67 King St., Picton, ON, K0K 2T0                                                                    |
+|Fakhri Bass                                  |40            |Town Hall, 15 Water St., Kemptville, ON, K0G 1J0                                                    |
+|Glory Joiner                                 |40            |300 Ontario St. Plaza 11, Hwy 11 Box 119, Burks Falls, ON, P0A 1C0                                  |
+|Juda English                                 |40            |Mission Building, Kingfisher, ON, Criminal Youth - Ontario Court of Justice:                        |
+|Tawny Headley                                |40            |201-159 Cedar Street, Sudbury, ON, P3E 6A5                                                          |
+|Victor Franklin                              |40            |491 Steeles Ave E., Milton, ON, L9T 1Y7                                                             |
+|Lena Al-Ghazzawi                             |35            |700 N. Christina Street, Sarnia, ON, N7V 3C2                                                        |
+|Nik Sousa                                    |35            |15 Hudson St., Blind River, ON, P0R 1B0                                                             |
+|Vasili Winston                               |35            |Nursing Station, North Spirit Lake, ON, P0V 2G0                                                     |
+|Vitaliya Spears                              |35            |440 Kent St. W., Lindsay, ON, K9V 6K2                                                               |
+|Ademir Chester                               |30            |605 Yonge St., Midland, ON, L4R 2E1                                                                 |
+|Akulina Lynn                                 |30            |115 Howey Street, Box 1070, Red Lake, ON, P0V 2M0                                                   |
+|Anong Arthur                                 |30            |97 Thomas St. E., Napanee, ON, K7R 4B9                                                              |
+|Audra Hext                                   |30            |Community Centre, Poplar Hill, ON, P0V 3E0                                                          |
+|Borya Fairclough                             |30            |57 Holland St. E., Bradford, ON, L3Z 1H8                                                            |
+|Breann Garland                               |30            |315 Raglan St. S., Renfrew, ON, K7V 1R6                                                             |
+|Brunilda Yuen                                |30            |479 Government St. Box 1, Dryden, ON, P8N 3K9                                                       |
+|Devin Peterson                               |30            |39 Chambers St. Rm 307 Smiths Falls ON K7A 4S9                                                      |
+|Dinis Waters                                 |30            |Community Centre, Ogoki Post, ON, P0T 2L0                                                           |
+|Esmée Winchester                             |30            |141 GaspÃ©sie Road, Hearst, ON, P0L 1R0                                                             |
+|Fern Leonard                                 |30            |Community School, Kasabonika, ON, Criminal Youth - Ontario Court of Justice:                        |
+|Hooda Webster                                |30            |2021 Plains Rd. E., Burlington, ON, L7R 4M3                                                         |
+|Isaac Patton                                 |30            |School, Sandy Lake, ON, P0V 1V0                                                                     |
+|Kathryn Bartram                              |30            |School, Summer Beaver, ON, P0T 3B0                                                                  |
+|Khayriyya Barnes                             |30            |6 - 5th Street W. Box 858, Morrisburg, ON, K0C 1X0                                                  |
+|Kristy Bunker                                |30            |200 Chatham St. E., Windsor, ON, N9A 2W3                                                            |
+|Margarita Freeman                            |30            |100 Tudhope St.,2nd fl, Suite 3, Espanola, ON, P5E 1S6                                              |
+|Mimi Smalls                                  |30            |193 Gordon St., Smooth Rock Falls, ON, P0L 2B0                                                      |
+|Rafe Voronin                                 |30            |85 Frederick Street, Kitchener, ON, N2H 0A7                                                         |
+|Shad Wickham                                 |30            |360 Plouffe Street, North Bay, ON, P1B 9L5                                                          |
+|Victoria Devin                               |30            |Community Hall, Big Trout Lake, ON, P0V 1G0                                                         |
+|Yasha Thurstan                               |30            |29 Second St. W., Cornwall, ON, K6J 1G3                                                             |
+|Yasmine Philips                              |30            |150 Bond Street East, Oshawa, ON, L1G 0A2                                                           |
+|Abd al-Aziz Triggs                           |25            |274 Josephine St., Wingham, ON, N0G 2W0                                                             |
+|Asmaa Huang                                  |25            |Wasaho 1st Nation School, Fort Severn, ON, P0V 1W0                                                  |
+|Calleigh Sultan                              |25            |Resource Centre, Sachigo Lake, ON, P0V 2P0                                                          |
+|Celso Garland                                |25            |117 Dieppe Rd., Royal Canadian Legion, Longlac, ON, P0T 2A0                                         |
+|Coleman Holt                                 |25            |470 Water St., Peterborough, ON, K9H 3M3                                                            |
+|Eduard Bell                                  |25            |80 Dundas St., London, ON, N6A 6A3                                                                  |
+|Faddei Robinson                              |25            |Community Hall, Koval St., Pickle Lake, ON, P0V 3A0                                                 |
+|Gregory Head                                 |25            |36 Wyndham Street South, Guelph, ON, N1H 7J5                                                        |
+|Lena Marlowe                                 |25            |266 Main St, Community Hall, Thessalon, ON, P0R 1L0                                                 |
+|Pleasance Davidson                           |25            |393 Main St. Box 609, Haileybury, ON, P0J 1K0                                                       |
+|Selwyn Alfarsi                               |25            |89 James St., Parry Sound, ON, P2A 1T7                                                              |
+|Svyatoslav Tobias                            |25            |130 Queen St. West, Toronto, ON, M5H 2N5                                                            |
+|Yaser Rogerson                               |25            |60 Queen St. W. Old City Hall, Toronto, ON, M5H 2M4                                                 |
+|Zaid Naoumov                                 |25            |North Woods Motor Inn, Highway #17, Ignace, ON, Criminal Youth - Ontario Court of Justice:          |
+|Alexia Wesley                                |20            |Recreational Hall, Weagamow Lake, ON, P0V 2Y0                                                       |
+|Amanda Armando                               |20            |27 Phipps Street, Gore Bay, ON, P0P 1H0                                                             |
+|Ariadna Andrews                              |20            |1911 Eglinton Ave East, Toronto, ON, M1L 4P4                                                        |
+|Bettie Longstaff                             |20            |161 Elgin St., 2nd Fl., Ottawa, ON, K2P 2K1                                                         |
+|Caio Wilcox                                  |20            |253 Main St., Iroquois Falls, ON, P0L 1C0                                                           |
+|Carlyn Murgatroyd                            |20            |Reg Louttit Sportsplex, Attawapiskat, ON, P0L 1A0                                                   |
+|Cherice Cotterill                            |20            |4 Hemlo Drive, Marathon, ON, P0T 2E0                                                                |
+|Colten Garcia                                |20            |1 Huron St., Stratford, ON, N5A 5S4                                                                 |
+|Damian Turnbull                              |20            |297 Pembroke St E, Pembroke, ON, K8A 3K2                                                            |
+|Debbi Marchand                               |20            |Mundo Peetabeck Academy, Fort Albany, ON, P0L 1H0                                                   |
+|Ferdinand Hartell                            |20            |48 -6th Ave, Hornepayne, ON, P0M 1Z0                                                                |
+|Franklyn Edison                              |20            |Sundridge Strong and Joly Arena, 14 Albert St. N., Sundridge, ON, P0A 1Z0                           |
+|Galvão Skinner                               |20            |393 University Ave. -10th Fl., Toronto, ON, M5G 1E6                                                 |
+|Gerard Mitchell                              |20            |160 Water St.  Town Hall, Mattawa, ON, P0H 1V0                                                      |
+|Glória Parks                                 |20            |47 Mill St., Killaloe, ON, K0J 2A0                                                                  |
+|Haydn Daniel                                 |20            |611 - 9th Ave. East, Owen Sound, ON, N4K 6Z4                                                        |
+|Jayne Wash                                   |20            |45 Main St. E., Hamilton, ON, L8N 2B7                                                               |
+|Jess Cheshire                                |20            |10 Louisa St., Orangeville, ON, L9W 3P9                                                             |
+|Keith Moon                                   |20            |333 Church St., Fort Frances, ON, P9A 1C9                                                           |
+|Kulap Rigby                                  |20            |201 River Rd., Royal Canadian Legion, Sturgeon Falls, ON, P2B 1T4                                   |
+|Kurtis Shelton                               |20            |Church basement, Peawanuck, ON, P0L 2HO                                                             |
+|Liam Goffe                                   |20            |Education Building, Lac Seul, ON, P0V 1X0                                                           |
+|Merrill Ridley                               |20            |149 Fourth Ave Box 638, Cochrane, ON, P0L 1C0                                                       |
+|Qing Seymour                                 |20            |102 East Main Street, Welland, ON, L3B 3W6                                                          |
+|Quentin Monday                               |20            |426 Queen St. E., Sault Ste. Marie, ON, P6A 6W2                                                     |
+|Rute Constable                               |20            |5 Fairway Blvd, Bancroft, ON, K0L 1C0                                                               |
+|Sawsan Langley                               |20            |Community Centre, General Delivery, Bearskin Lake, ON, P0V 1G0                                      |
+|Vasya Sobol                                  |20            |361 University Ave., Toronto, ON, M5G 1T3                                                           |
+|Verna Madison                                |20            |125 Brodie Street North, Thunder Bay, ON, P7C 0A3                                                   |
+|Yevgeni Babcock                              |20            |Webequie Band Hall, Webequie, ON, P0T 3A0                                                           |
+|Zainab Huddleson                             |20            |Muskrat Dam School Gym, Muskrat Dam, ON, P0V 2B0                                                    |
+|Braden Jinks                                 |15            |2338 Wikwemikong Way Wikwemikong Recreation and Cultural Centre, Wikwemikong, ON, P0P 2J0           |
+|Byrne Mathewson                              |15            |444 Yonge St., College Park - 2nd Fl., Toronto, ON, M5B 2H4                                         |
+|Cíntia Jervis                                |15            |855 Major Mackenzie Drive East, Richmond Hill, ON, L4B 4X7                                          |
+|Corynn Simons                                |15            |Kaschechewan School Auditorium, Kashechewan, ON, P0L 1S0                                            |
+|Dusty Cullen                                 |15            |1023 King St., LOrignal, ON, K0B 1K0                                                                |
+|Hyacinth Deadman                             |15            |1 Mississauga Dr, Manitouwadge, ON, P0T 2C0                                                         |
+|Jacob Howland                                |15            |4 Wellington Street, St. Thomas, ON, N5R 2P2                                                        |
+|Leonor Waterman                              |15            |7765 Hurontario Street, Brampton, ON, L6W 4T1                                                       |
+|Medhat Rowe                                  |15            |2201 Finch Ave. West, Toronto, ON, M9M 2Y9                                                          |
+|Melva Zha                                    |15            |3 Dominion St., Bracebridge, ON, P1L 2E6                                                            |
+|Retha Hale                                   |15            |7 Milne St., Minden, ON, K0M 2K0                                                                    |
+|Rui Little                                   |15            |Co-Op Building, Fort Hope, ON, Criminal Youth - Ontario Court of Justice:                           |
+|Sanya Ayton                                  |15            |21 Madawaska St., Arnprior, ON, K7S 1R6                                                             |
+|Sigmund Perry                                |15            |Civic Centre, 88 Riverside Dr., Kapuskasing, ON, P5N 1B3                                            |
+|Suz Kimberly                                 |15            |1 Courthouse Sq., Goderich, ON, N7A 1M2                                                             |
+|Suzan Bourne                                 |15            |44 Queen St., Brantford, ON, N3T 3B2                                                                |
+|Winter Wolf                                  |15            |8500 Leslie St., Suite 395, Markham, ON, L3T 7M8                                                    |
+|Zackery Barnet                               |15            |55 Main St. W., Hamilton, ON, L8P 1H4                                                               |
+
+Task 2
+
+|Player                                       |Team                                         |
+|---------------------------------------------|---------------------------------------------|
+|Jeb Jameson                                  |Badgers                                      |
+|Kal Kendrick                                 |Badgers                                      |
+|Lafawnduh Lymerick                           |Badgers                                      |
+|Petra Peterson                               |Cobras                                       |
+|Quincy Quagmire                              |Cobras                                       |
+|Ryan Ronalds                                 |Cobras                                       |
+|Mabel Murray                                 |Cougars                                      |
+|Noel Nesbitt                                 |Cougars                                      |
+|Orvil Oppenheimer                            |Cougars                                      |
+|Greg Ginger                                  |Eagles                                       |
+|Harriet Hamilton                             |Eagles                                       |
+|Iggy Igersol                                 |Eagles                                       |
+|Ali Abrams                                   |Sharks                                       |
+|Bobbie Burns                                 |Sharks                                       |
+|Charlie Champion                             |Sharks                                       |
+|Daniel Day                                   |Wolves                                       |
+|Em Edgar                                     |Wolves                                       |
+|Flo Ferris                                   |Wolves                                       |
+
+Task 3
+
+|Game                                                                                           |Court|Time               |
+|-----------------------------------------------------------------------------------------------|-----|-------------------|
+|Sharks vs. Badgers                                                                             |A    |2018-11-21 12:00:00|
+|Wolves vs. Cobras                                                                              |B    |2018-11-21 12:00:00|
+|Eagles vs. Cougars                                                                             |C    |2018-11-21 12:00:00|
+|Sharks vs. Cougars                                                                             |A    |2018-11-21 13:00:00|
+|Wolves vs. Badgers                                                                             |B    |2018-11-21 13:00:00|
+|Eagles vs. Cobras                                                                              |C    |2018-11-21 13:00:00|
+|Sharks vs. Cobras                                                                              |A    |2018-11-21 14:00:00|
+|Wolves vs. Eagles                                                                              |B    |2018-11-21 14:00:00|
+|Badgers vs. Cougars                                                                            |C    |2018-11-21 14:00:00|
+
+Task 4
+
+|Team                                         |Donation                         |
+|---------------------------------------------|---------------------------------|
+|Eagles                                       |8370                             |
+|Badgers                                      |2435                             |
+|Sharks                                       |1915                             |
+|Cobras                                       |1675                             |
+|Cougars                                      |1465                             |
+|Wolves                                       |1115                             |
+
+Task 5
+
+|Team                                         |Score                  |Wins                 |Losses                |
+|---------------------------------------------|-----------------------|---------------------|----------------------|
+|Sharks                                       |3                      |4                    |1                     |
+|Cobras                                       |1                      |3                    |2                     |
+|Badgers                                      |1                      |3                    |2                     |
+|Eagles                                       |-1                     |2                    |3                     |
+|Cougars                                      |-1                     |2                    |3                     |
+|Wolves                                       |-3                     |1                    |4                     |

@@ -1,0 +1,30 @@
+package question4;
+import java.util.Scanner;
+/**
+ * Author Jonathan Kelly
+ */
+
+public class Question4 {
+
+    public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+	int x = 0;
+	int y = 0;
+	int z = 0;
+    System.out.print("Enter a value for x: ");
+    int x= input.nextLine();
+    System.out.print("Enter a value for y: ");
+    int y= input.nextLine();
+    System.out.print("Enter a value for z: ");
+    int z= input.nextLine();
+	int expression;
+	System.out.print(expression);
+
+public static void algebraicexpression(int[] temp){
+int expression = (42 * x / 70 + y – z * 420 * z  / Math.PI();
+return expression;
+
+			}
+		}       
+	}    
+}
